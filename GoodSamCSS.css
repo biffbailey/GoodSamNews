@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+p::first-letter {
+	color:eeb304;
+	font-size:xx-large;
+}
+
+p {
+
+padding:2em;
+color:eeb302;
+background-color:yellow;
+
+}
+
+.green {
+	color:green;
+}
+
+.red {
+	color:red
+}
